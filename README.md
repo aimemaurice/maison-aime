@@ -8,7 +8,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Aime |
+| **Reg No** | 22977/2023 |
 | **Course** | E-Commerce and Web Application — EWA408510 |
 | **Institution** | University of Lay Adventists of Kigali (UNILAK) |
 | **Academic Year** | 2025–2026, Semester II |
