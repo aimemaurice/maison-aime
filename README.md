@@ -69,8 +69,11 @@ Wix was selected for its intuitive drag-and-drop editor, built-in e-commerce fun
 ### Product Page
 ![Product Page](images/products.png)
 
-### Contact & Cart Page
+### Contact Page
 ![Contact Page](images/contact-cart.png)
+
+### Cart Page
+![Cart Page](images/cart.png)
 
 ---
 
