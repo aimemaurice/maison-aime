@@ -78,8 +78,8 @@ Wix was selected for its intuitive drag-and-drop editor, built-in e-commerce fun
 
 | | Link |
 |-|------|
-| 🌐 **Live Website** | [Visit Maison Aime](#) *(replace with your Wix link)* |
-| 📁 **GitHub Repository** | [github.com/yourusername/maison-aime](#) *(replace with your repo link)* |
+| 🌐 **Live Website** | [Visit Maison Aime](https://ndahiriweofficiel.wixsite.com/my-site-1)
+| 📁 **GitHub Repository** | [github.com/yourusername/maison-aime](https://github.com/aimemaurice/maison-aime)
 
 ---
 
